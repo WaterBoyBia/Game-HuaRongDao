@@ -1,0 +1,10 @@
+﻿  源.cpp
+D:\University\程序设计\VS\数字华容道\数字华容道\源.cpp(195,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\程序设计\VS\数字华容道\数字华容道\源.cpp(202,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\程序设计\VS\数字华容道\数字华容道\源.cpp(209,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\程序设计\VS\数字华容道\数字华容道\源.cpp(216,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\程序设计\VS\数字华容道\数字华容道\源.cpp(223,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\程序设计\VS\数字华容道\数字华容道\源.cpp(230,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\程序设计\VS\数字华容道\数字华容道\源.cpp(237,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\University\程序设计\VS\数字华容道\数字华容道\源.cpp(244,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  数字华容道.vcxproj -> D:\University\程序设计\VS\数字华容道\x64\Debug\数字华容道.exe
